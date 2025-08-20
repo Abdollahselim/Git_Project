@@ -45,21 +45,6 @@
 
 <br>
 
-### 🗂️ Project Structure:
-
-```
-Git-Project/
-├── css/
-│   └── main.css          # Main stylesheet file
-├── imgs/
-│   └── 01.jpg           # Background image
-├── js/
-│   └── script.js        # Calculator logic and effects
-├── index.html           # Main page
-└── README.md           # Project documentation
-```
-
-<br>
 
 ### 🔨 Languages and Tools Used:
 
@@ -210,14 +195,6 @@ Want to contribute? Great! Here's how:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-#### Contributing Guidelines:
-
-- Follow existing code style and conventions
-- Add comprehensive comments for complex logic
-- Test all changes across different browsers
-- Update documentation for new features
-- Ensure responsive design compatibility
-
 <br>
 
 ### 📊 Project Statistics:
@@ -234,25 +211,12 @@ Want to contribute? Great! Here's how:
 
 <br>
 
-### 📄 License:
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### 🙏 Acknowledgments:
-
-- **Modern Web APIs**: For providing powerful browser capabilities
-- **Google Fonts**: For the amazing Orbitron typography
-- **Developer Community**: For inspiration and continuous learning
-- **Open Source**: For making knowledge accessible to everyone
-
-<br>
-
 ### 📞 Contact & Support:
 
 - 📧 **Email**: 3bdullahselim@gmail.com
 - 💼 **LinkedIn**: [Abdullah Selim](https://www.linkedin.com/in/ِabdullah-selim-721693175)
 - 🐦 **Twitter**: [@Abdullah*Selim*](https://x.com/Abdullah_Selim_)
-- 💻 **GitHub**: [More Projects](https://github.com/Abdollahselim)
+- 💻**GitHub**: [More Projects](https://github.com/Abdollahselim)
 
 ---
 
