@@ -1,14 +1,14 @@
 # Hey 👋, I'm Abdullah Selim!
 
 ### Calculator Pro - Advanced Digital Calculator
-
-![Calculator Pro Preview](imgs/02.jpg)
-
-<a href='https://www.linkedin.com/in/ِabdullah-selim-721693175'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/Abdullah_Selim_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='mailto:3bdullahselim@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" height='18px'/></a>
-
 <div align="center">
+<a href='https://www.linkedin.com/in/ِabdullah-selim-721693175'><img align='left' alt="linkedin" src="https://github.com/user-attachments/assets/331da41d-1d12-4578-8250-94d85a863cf4" height='20px'/></a>
+<a href='https://x.com/Abdullah_Selim_'><img align='left' alt="twitter" src="https://github.com/user-attachments/assets/b5874241-a686-4673-a244-fa0612a1cb1f" height='20px'/></a>
+<a href='mailto:3bdullahselim@gmail.com'><img align='left' alt="email" src="https://github.com/user-attachments/assets/36508815-bbf2-4758-9196-2863c13b02c9" height='20px'/></a>
+<a href='https://github.com/Abdollahselim'><img align='left' alt="email" src="https://github.com/user-attachments/assets/3e55e869-ced7-464a-a665-ee5cafc0c4b4" height='20px'/></a>
+
+<a href=''><img align='right' src="imgs/02.jpg" height='400px'></a>
+<br/>
 
 ![Calculator Pro](https://img.shields.io/badge/Calculator-Pro-blue?style=for-the-badge&logo=calculator)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,9 +17,7 @@
 
 </div>
 
-<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About This Project:
 
@@ -44,7 +42,7 @@
 - **👆 Touch Support**: Touch gestures for mobile devices
 
 <br>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🔨 Languages and Tools Used:
 
@@ -55,7 +53,8 @@
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 <a href="https://figma.com" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
 
-<br>
+<br/>
+<br/>
 
 ### 🎯 How to Use:
 
@@ -71,10 +70,14 @@
 | Delete   | `Backspace`     | Delete last digit        |
 | Decimal  | `.`             | Add decimal point        |
 
+<br/>
+
 ### 📱 Touch Gestures (Mobile):
 
 - **Swipe Right**: Clear screen
 - **Swipe Left**: Delete last digit
+
+<br/>
 
 ### 🎮 Secret Features:
 
@@ -227,6 +230,12 @@ Want to contribute? Great! Here's how:
 **Made with ❤️ and lots of ☕ by Abdullah Selim**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdollahselim.calculator-pro)
+
+
+
+https://github.com/user-attachments/assets/399dfca3-dc44-4716-a497-1098b2df773d
+
+
 
 </div>
 Web Development GitHub Projects
